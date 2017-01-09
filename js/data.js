@@ -16,7 +16,7 @@ var JSONBingo = {"squares": [
         {"square": "C/Kapazität"},
         {"square": "L/Induktivität"},
         {"square": "U/Spannung"},
-        {"square": "D(-Feld)"},
+        {"square": "E-Feld"},
         {"square": "R/Widerstand"},
         {"square": "B-Feld"},
         {"square": "Integral"},
