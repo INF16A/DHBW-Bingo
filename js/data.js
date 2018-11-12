@@ -1,7 +1,7 @@
 
 var headerText = "Bingo";
 
-var footerText = "<a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Code available on github</a>";
+var footerText = "<a href='https://github.com/INF16A/DHBW-Bingo/tree/master' target='_blank'>Code available on github</a>";
 
 var winText = "Winner";
 
@@ -31,6 +31,14 @@ var JSONBingo = {"squares": [
         {"square": "ja, ja"},
         {"square": "ja also"},
         {"square": "Stream"},
-        {"square": "syntaktischer Zucker"}
+        {"square": "syntaktischer Zucker"},
+        {"square": "elegant"},
+        {"square": "*Luft durch die Zähne ziehen*"},
+        {"square": "selbst implemtiert"},
+        {"square": "API"},
+        {"square": "Filter"},
+        {"square": "Linkin Park"},
+        {"square": "Methode"},
+        {"square": "Java"}
     ]
 };
