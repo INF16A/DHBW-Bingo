@@ -15,7 +15,6 @@ var JSONBingo = {"squares": [
         {"square": "Interface"},
         {"square": "Sarkasmus"},
         {"square": "Aufwärmübung"},
-        {"square": "U/Spannung"},
         {"square": "da müssen sie mich kurz entschuldigen"},
         {"square": "quick and dirty"},
         {"square": "Lambda"},
@@ -30,7 +29,6 @@ var JSONBingo = {"squares": [
         {"square": "Pattern Matching"},
         {"square": "*Fehler machen*"},
         {"square": "ja, ja"},
-        {"square": "Wirbelfelder"},
         {"square": "ja also"},
         {"square": "Stream"},
         {"square": "syntaktischer Zucker"}
